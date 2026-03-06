@@ -26,5 +26,11 @@ Here you will find projects, exercises, and studies developed during my **Data S
 
 My goal is to build a strong portfolio and use data to solve real-world problems.
 
+## 🤝 Professional Contact
+
+- LinkedIn: https://www.linkedin.com/in/biancanadai/
+
+Feel free to connect with me to talk about **Data Science, projects, and learning opportunities**.
+
 ---
 ✨ Thanks for visiting my profile!
